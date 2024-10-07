@@ -69,15 +69,11 @@ section.cards  {
 }
 .cards div {
     display: inline-block;
-    /* background-color: white; */
-    /* padding: 10px; */
-    /* margin: 10px; */
     width: auto;
 }
 .cards ul {
     list-style-type: none;
     margin: 0px;
-    /* margin-left: 5px; */
     padding: 0px;
     background-color: white;
 }
@@ -199,7 +195,4 @@ section#related_images img {
     border: 7px solid #8662C7;
     border-style: double;
     border-radius: 10px;
-} 
-
-
-
+}

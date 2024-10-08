@@ -6,7 +6,7 @@
 body {
     background-color: aliceblue;
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 /* NAVIGATION for ALL PAGES */
@@ -104,6 +104,7 @@ section.cards  {
     display: inline-block;
     font-size: 10px;
     margin-right: 10px;
+    padding-bottom: 4px;
 }
 .cards span img {
     width: 25px;

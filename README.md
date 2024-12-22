@@ -8,7 +8,7 @@ Developed by the one and only, Juliana Marie Tafalla.</br>
 
 ## Project Link
 The project is hosted using GitHub Pages. Visit the link to see the final project!
-[Assignment 1: HTML and CSS Introductory Project](https://jollyanna.github.io/assignment1/index.html)
+[Assignment 1: HTML and CSS Introductory Project](https://jollyanna.github.io/COMP3612-assignment1/)
 
 ## Main Project Files
 - **CSS File**
